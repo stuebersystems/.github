@@ -6,4 +6,4 @@ In addition to the repositories you find here, there are other dedicated open so
 
 + [ENBREA](https://github.com/enbrea) - Open Source Education Management for all types of schools.
 + [CSV Table Schema](https://github.com/csv-table-schema) - A pragmatic approach for defining CSV schemas.
-+ [OpenPotato](https://github.com/csv-table-schema) - A place for our Open Data projects.
++ [OpenPotato](https://github.com/openpotato) - A place for our Open Data projects.
